@@ -26,8 +26,8 @@ print("Hello World")
 
 
 # input from keyboard
-# celcius to farenheit
-F = float(input("Enter farenheit degrees"))
+# celsius to fahrenheit
+F = float(input("Enter fahrenheit degrees"))
 C = (F - 32) * (5 / 9)
 print(C)
 
@@ -39,8 +39,3 @@ print(num)
 name = input("enter your name")
 print(name)
 
-# assignment 0
-# write a basic calculator w/ these functions
-# add, subtract, multiply, divide
-# take 2 numbers from user input
-# display the results on the console

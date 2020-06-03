@@ -1,0 +1,6 @@
+assignment 0
+write a basic calculator w/ these functions
+add, subtract, multiply, divide
+take 2 numbers from user input
+
+display the results of sum, difference, product and quotient on the console
