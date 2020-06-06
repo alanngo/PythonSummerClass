@@ -32,19 +32,20 @@ INITIALIZATION
 1. Create remote repo named PythonSummerClass on Github
 2. Create local repo named PythonSummerClass
 3. Open terminal
-4. $ cd <PATH TO LOCAL REPO>
+4. $ cd PATH_TO_LOCAL_REPO
 5. $ touch README.md
 6. $ git init
 7. $ git add .
 8. $ git commit - m "initial commit"
-9. $ git remote add origin https://github.com/<USERNAME>/PythonSummerClass.git
+9. $ git remote add origin https://github.com/USERNAME/PythonSummerClass.git
 - replace USERNAME w/ your github username
 10. $ git push -u -f origin master
 11. $ git pull
 
 CONTINUOUS
-1. $ git add <file name>
-2. $ git commit -m "<message>"
+1. $ git add FILE_NAME
+- for all files: $git add .
+2. $ git commit -m "COMMIT_MESSAGE"
 3. $ git push
 
 
