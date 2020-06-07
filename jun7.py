@@ -74,14 +74,3 @@ def exp(x, n):
         else:
             ret = -1 / result
     return ret
-
-
-def main():
-    print(multiply(2, -5))  # should be -10
-    print(exp(2, -5))  # should be 1/32
-    print(multiply(-2, -5))  # should be 10
-    print(exp(-2, 5))  # should be -32
-    print(exp(-2, -5))  # should be -1/32
-
-
-main()
