@@ -1,0 +1,48 @@
+Part a: Write a program to calculate GPA letter grades from 3 exams using functions, loops, and decision structures
+- input the student's name
+- input the 3 exams
+- calculate the average and compute the letter grades
+- round up
+A:  90<=avg<=100
+B:  80<=avg<=89
+C:  70<=avg<=79
+D:  60<=avg<=69
+F: avg<60
+
+Sample output:
+    Student name: Jesse Miller
+    Test1: 98
+    Test2: 73
+    Test3: 86
+    Avg: 85.66
+    Letter Grade: B
+
+Part b: Write a program that calculates the number of certain poker chips given user input
+- input a positive number
+- Poker chip values
+    - yellow = 1000
+    - purple = 500
+    - black = 100
+    - blue = 50
+    - green = 25
+    - red = 5
+    - white = 1
+
+Sample output:
+    Cash: $2864
+    yellow chips: 2
+    purple chips: 1
+    black chips: 3
+    blue chips: 1
+    green chips: 0
+    red chips: 2
+    white chips: 4
+
+
+
+what to turn in
+assignment1/
+    - assignment1a.py
+    - assignment1b.py
+
+make sure you turn in your submission through github
