@@ -1,0 +1,29 @@
+1. Open linux terminal
+2. Type cd ~ and press enter.
+3. Type pwd and press enter.
+    a. What does the terminal output?
+    b. Briefly describe what pwd does.
+    c. What does ~ mean in linux terminal?
+
+4. type cd / and press enter.
+    a. Type cd .. and press enter
+    b. Type pwd and press enter
+    c. Repeat step a and b.
+    d. Which directory are you in?
+
+5. What is the difference between the home directory and the root directory?
+
+6. Type hello. What does the terminal output?
+    a. Now type alias hello='echo hello <NAME>', then press enter. Remember to replace <NAME> w/ a random name
+    b. Now type hello. What does the terminal output?
+
+7. Press the up and down arrow keys. What do you notice?
+
+8. Go to https://aboutalan.herokuapp.com/reference%20guides/commands.txt
+    a. Describe how to build and run "Sandbox.java" in terminal.
+    b. Describe how to do build and run "Sandbox.java" in makefile using "build" and "run" tags.
+        - In makefile:
+
+        - In terminal:
+
+9. Type telnet towel.blinkenlights.nl and press enter. Recognize something?

@@ -1,0 +1,7 @@
+Part A: writing code
+    implement 8 functions in challenges.py, use any library and any helper functions, but don't
+    create new classes. Use sandbox.py to test your code
+
+Part B: using the terminal
+    1. fill out terminal.txt
+    2. play around w/ the terminal, post an something interesting you discovered about it on the group chat
