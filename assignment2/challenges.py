@@ -94,7 +94,7 @@ def part6(n, k):
 
 ##
 # write the permutation formula
-# c(n, k) = n! / ((n-k)! * k!)
+# p(n, k) = n! / ((n-k)!)
 # returns the permutation of 2 number
 # needs to work for large numbers and cannot timeout
 # ##
