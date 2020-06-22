@@ -38,6 +38,30 @@ def fib(n):
         cache[n] = fib(n - 1) + fib(n - 2)
     return cache[n]
 
+def t9(original):
+    map = {
+    'abc': '2',
+    'def': '3',
+    'ghi' : '4',
+    'jkl': '5',
+    'mno': '6',
+    'pqrs': '7',
+    'tuv': '8',
+    'wxyz': '9',
+    " ": '0'
+    }
+    string = ""
+    for char in original:
+        for str in map.keys():
+            if char in str:
+                char_num = map[str]
+                string += char_num
+                break
+    return string
+
+print(t9('alan'))
+print(t9('alan loves neha'))
+
 
 def main():
     # list []
