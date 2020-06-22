@@ -1,0 +1,57 @@
+Part A: Come up with a T9 decoder using dictionary.
+
+Your program should have these functionalities
+- take input from user
+    - e to encode
+    - d to decode
+    - x to exit
+
+For decoding purposes, your program should look thru a dictionary to see if a original
+string is mapped to an encoded string. If not, print "unable to decode". If there are multiple words mapped to the
+same encoding, randomly select a word.
+
+After the user encodes a string, add it to the dictionary.
+You will need to read from a file to populate the dictionary.
+
+    Here's how to print from a file:
+
+        def read_file(file):
+            file.open("file_name.txt")
+            for line in file:
+                print(line)
+            file.close()
+
+
+Part B: Form a group of 2 to 4 people and come up with a project idea. Write your project proposal like this...
+Figure out who are your developers and project manager and make a list of 5 project choices. Only turn in
+1 copy of the proposal per group. Turn this in NO LATER THAN JULY 26 2020!
+
+Email me the proposal in addition to turning it in on github: alanngo673@gmail.com
+
+What to include in your project proposal
+Project Manager:
+Developers:
+
+Github link:
+
+Idea 0:
+    <2-4 sentence description of Idea 0>
+
+Idea 1:
+    <2-4 sentence description of Idea 1>
+
+Idea 2:
+    <2-4 sentence description of Idea 2>
+
+Idea 3:
+    <2-4 sentence description of Idea 3>
+
+Idea 4:
+    <2-4 sentence description of Idea 4>
+
+
+
+what to turn in
+assignment3/t9.py
+assignment3/project_proposal.txt (1 copy per group)
+
