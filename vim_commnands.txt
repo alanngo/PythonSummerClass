@@ -1,0 +1,32 @@
+=====VIM COMMANDS=====
+
+MODES
+esc=> command mode
+i=> insert mode
+
+NAVIGATION
+arrow keys (ANY MODE)
+
+(COMMAND MODE)
+h => LEFT
+l => RIGHT
+k => UP
+j => DOWN
+G => go to end of file
+<X> gg => got to lne X
+
+PROPERTIES
+:wq => save and quit
+:cq => discard and quit
+:set ic => sets search to find ignore case
+:set number => enables line number
+
+
+EDIT
+yy => copy current line
+d + enter => cut
+p => paste
+uu => undo
+Ctrl + r => redo
+
+/<STRING> => find string
